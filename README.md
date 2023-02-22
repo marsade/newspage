@@ -81,7 +81,7 @@ I want to refine my DOM manipulation skills and be able to use Javascript for mo
 ## Author
 
 - Frontend Mentor - [https://www.frontendmentor.io/profile/marsade]
-- Twitter - [https://www.twitter.com/marsthegr8]
+- Twitter - [marstheg8](https://www.twitter.com/marsthegr8)
 
 ## Acknowledgments
 
