@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/news-homepage-using-css-grid-and-jquery-BnPYb0xvau]
-- Live Site URL: [https://mars-newspage.com]
+- Live Site URL: [https://mars-newspage.netlify.app]
 
 ## My process
 
