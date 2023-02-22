@@ -45,8 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 - JQuery
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 - How to make a mobile menu with Javascript
