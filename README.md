@@ -49,7 +49,8 @@ Users should be able to:
 
 ### What I learned
 
-How to make a mobile menu with Javascript
+- How to make a mobile menu with Javascript
+- CSS transitions and animations
 
 ```css
 .menu-nav {
